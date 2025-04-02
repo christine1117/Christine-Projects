@@ -22,7 +22,7 @@ Here, I showcase a collection of my projects related to AI, Data Science, and Ps
 - **技術與工具**：Python、Pandas、Scikit-learn
 - **學習收穫**：掌握了如何串接Google sheet API讀取和處理心理學數據，並應用機器學習算法進行分類與預測。
 
-[More](#)
+[More](https://github.com/christine1117/Christine-Projects/tree/6ed3d822fb5114693ff4366ab06a26c8b079ba49/AI-Psychology/Mental_Health_Analysis)
 
 ---
 
