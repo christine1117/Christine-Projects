@@ -8,7 +8,7 @@ I divide my projects into three categories:
 
 - [AI + Psychology](#ai-psychology)
 - [Data Science Projects](#data-science-projects)
-- [AI Generative Projects](#ai-generative-projects)
+- [Group Projects](#group-projects)
 
 
 
@@ -39,13 +39,13 @@ I divide my projects into three categories:
 
 ---
 
-## AI-Generative-Projects
+## Group Projects
 
-### AI 心理健康聊天機器人
+### Coffee selector
 
-- **簡介**：這是一個基於自然語言處理的心理健康聊天機器人，可以提供簡單的心理健康建議，並模擬一個情感支持的對話體驗。
-- **技術與工具**：Python、NLTK、TensorFlow
-- **學習收穫**：我學會了如何使用自然語言處理技術進行語言理解與生成，並了解如何設計與優化對話系統。
+- **Summary**：Recommend coffee based on user-selected preferences like brew time, sweetness, and milk options. Each result includes a full recipe with ingredients, steps, and visual ratios.
+- **Tech Stack**：Python、Tkinter、Pillow、Pandas、Pygame
+- **Key Contributions**：Built the interactive interface and filtering logic for coffee suggestions.
 
 [More](#)
 
