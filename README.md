@@ -51,9 +51,7 @@ I divide my projects into three categories:
 
 ---
 
-## 聯絡方式
-
-若您對我的專案或學習過程有興趣，請隨時聯繫我。
+## Contact
 
 - GitHub: [@Christine-Github](https://github.com/Christine)
 - Profolio: [@Christine-Notion](https://tidal-oval-da2.notion.site/Hi-I-m-Chiao-Chieh-Deng-1c323cab8111808e8afffbc7d5552a83)
