@@ -4,14 +4,13 @@ Welcome to my personal repository!
 Here, I showcase a collection of my projects related to AI, Data Science, and Psychology. My goal is to bridge the gap between human behavior and artificial intelligence to bring meaningful insights into psychology through data.
 
 ## Overview
-- [AI-Psychology](#AI-Psychology)
-- [Data-Science-Projects](#Data-Science-Projects)
-- [AI-Generative-Projects](#AI-Generative-Projects)
+I divide my projects into three categories:
+
+- [AI + Psychology](#ai-psychology)
+- [Data Science Projects](#data-science-projects)
+- [AI Generative Projects](#ai-generative-projects)
 
 
-
-
-  
 
 
 ## AI-Psychology
