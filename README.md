@@ -43,7 +43,7 @@ I divide my projects into three categories:
 
 ### Coffee selector
 
-- **Summary**：Recommend coffee based on user-selected preferences like brew time, sweetness, and milk options. Each result includes a full recipe with ingredients, steps, and visual ratios.
+- **Summary**：A group project built for *Introduction to Programming*, where users receive coffee recommendations based on selected preferences like brew time, sweetness, and milk. Each result includes a full recipe with steps and visual ratios.
 - **Tech Stack**：Python、Tkinter、Pillow、Pandas、Pygame
 - **Key Contributions**：Built the interactive interface and filtering logic for coffee suggestions.
 
