@@ -9,6 +9,7 @@ I divide my projects into three categories:
 - [AI + Psychology](#ai-psychology)
 - [Data Science Projects](#data-science-projects)
 - [Group Projects](#group-projects)
+- [Tiny but Fun](#tiny-but-fun)
 
 
 
@@ -49,6 +50,12 @@ I divide my projects into three categories:
 
 [More](#)
 
+## Tiny but Fun 
+A collection of class projects and self-practice builds — simple, creative, and hands-on.
+- [Quote Guessing Game](#) 
+
+
+-
 ---
 
 ## Contact
