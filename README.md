@@ -6,7 +6,7 @@ Here, I showcase a collection of my projects related to AI, Data Science, and Ps
 ## Overview
 I divide my projects into four categories:
 
-- [AI + Psychology](#ai-psychology)
+- [AI + Psychology](#ai--psychology)
 - [Data Science Projects](#data-science-projects)
 - [Group Projects](#group-projects)
 - [Tiny but Fun](#tiny-but-fun)
@@ -14,7 +14,7 @@ I divide my projects into four categories:
 
 
 
-## AI-Psychology
+## AI + Psychology
 
 ### 💗 Mental Health Assessment Automation System
 
@@ -26,7 +26,7 @@ I divide my projects into four categories:
 
 ---
 
-## Data-Science-Projects
+## Data Science Projects
 
 ### 🪐 SpaceX Launch Data Analysis
 
