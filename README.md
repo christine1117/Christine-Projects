@@ -4,7 +4,7 @@ Welcome to my personal repository!
 Here, I showcase a collection of my projects related to AI, Data Science, and Psychology. My goal is to bridge the gap between human behavior and artificial intelligence to bring meaningful insights into psychology through data.
 
 ## Overview
-I divide my projects into three categories:
+I divide my projects into four categories:
 
 - [AI + Psychology](#ai-psychology)
 - [Data Science Projects](#data-science-projects)
@@ -52,7 +52,7 @@ I divide my projects into three categories:
 
 ## Tiny but Fun 
 A collection of class projects and self-practice builds — simple, creative, and hands-on.
-- [Quote Guessing Game](#) 
+- [Quote Guessing Game](Tiny%20but%20Fun/Quote_Guessing_Game.ipynb) 
 
 
 -
