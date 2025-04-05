@@ -52,10 +52,10 @@ I divide my projects into four categories:
 
 ## Tiny but Fun 
 A collection of class projects and self-practice builds — simple, creative, and hands-on.
-- [Quote Guessing Game](Tiny%20but%20Fun/Quote_Guessing_Game.ipynb) 
+- [Quote Guessing Game](Tiny%20but%20Fun/Quote_Guessing_Game.ipynb)
+- [Anti-Awkward Bot](Tiny%20but%20Fun/Anti-Awkward%20Bot.ipynb)
+- [Web Scraper for Trending_News](Tiny%20but%20Fun/Web_Scraper_for_Trending_News.ipynb)
 
-
--
 ---
 
 ## Contact
