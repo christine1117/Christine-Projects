@@ -1,44 +1,65 @@
-# Mental Health Analysis 
+# Mental Health Assessment Automation System
+
+## 🧠 Project Overview
+This project supports a long-term psychological study titled:
+> *"From Institutional Rearing to Adult Mentalization: A Cross-Sequential Study on the Long-Term Effects of Childhood Attachment Experiences on Mentalization Ability"*
+
+As a research assistant under Prof. Pei-Yu Wu (Dept. of Education, National Chengchi University), I co-developed an automated system to streamline psychological health assessments and apply machine learning to uncover patterns between childhood institutional experiences and adult mental well-being.
+
+---
+
+## 🎯 Objectives
+- **Explore** how early-life environments influence adult mental health
+- **Reduce** manual workload in processing psychological assessments
+- **Apply** AI tools for scalable, reproducible research insights
+
+---
+
+## 🔍 Background
+Traditional psychological assessments often rely on manual data entry, cleaning, and scoring, which slows down analysis and limits research scale. To address this, I built an end-to-end automation system that:
+- Sends surveys via email
+- Collects responses via Google Forms/Sheets
+- Cleans and processes data
+- Applies machine learning models to identify predictive patterns
+- Automatically generates preliminary analytical summaries
+
+The study focuses on participants with childhood experiences in institutional care facilities.
+
+---
+
+## 🛠 Tech Stack
+- **Python** – main development language
+- **Pandas** – data cleaning and preprocessing
+- **Scikit-learn** – ML model building (logistic regression, random forest)
+- **Google Sheets API** – real-time data syncing
+- **SMTP** – for batch email survey distribution
+
+---
 
 
-我擔任政大教育系吳珮瑀教授「從機構養育到成人心智理解：探索兒童期依附經驗對心智化能力長期影響的跨序列研究」的**研究助理**與**心理學數據處理與系統開發**，透過**人工智慧分析童年成長環境對心理發展的影響**。在研究過程中，我們實地訪談來自療養機構的受試者，並收集心理健康數據，以探索影響心理發展的關鍵變數。
 
-傳統心理測評的數據處理往往需要大量人工分析，因此，我設計並開發了一款**自動測評系統**，能夠自動處理數據並生成分析結果，有效減少繁瑣的手動工作。此外，該系統支援**批量透過 Email 發送測評問卷與回饋結果**，大幅提升研究效率與可擴展性。
+## ⚙️ How It Works
+1. **Survey Distribution**
+   - Google Form links are sent via Python SMTP to a batch of participants
 
-## 🔍 研究目標
-- **探索** 童年成長環境對心理健康的影響
-- **減少** 人工數據處理的時間成本，提高分析效率
-- **應用** 機器學習技術，為心理健康評估提供更客觀的參考
+2. **Data Collection**
+   - Responses are synced live to Google Sheets
 
-## 🛠 技術使用
-- **Python**（資料處理與分析）
-- **Pandas**（數據整理與清理）
-- **Scikit-learn**（機器學習模型建構）
-- **Google Sheets API**（自動化數據收集與管理）
-- **SMTP（Email 服務）**（批量發送測評問卷）
+3. **Data Cleaning & Scoring**
+   - Python scripts parse, normalize, and score psychological assessments (e.g., RFQ-C, RFQ-U)
 
-## 📌 研究應用領域
-- **心理學**（理解成長經歷與心理健康之間的關聯）
-- **數據分析**（透過統計與機器學習，發掘關鍵變數）
-- **人工智慧（AI）**（提升心理測評的效率與準確性）
+4. **Modeling & Analysis**
+   - Logistic Regression & Random Forest models used to explore relationships between background variables and mentalization scores
 
-## ⌛研究規劃
+5. **Result Summarization**
+   - Outputs can be visualized in VS or exported as formatted summaries for the research team
 
-- 資料收集與前期準備（2024年10月 - 2025年2月）
-  - 確定研究方法與工具
-  - 收集與整理資料，與療養機構合作進行初步調查
-  - 完成 Google Sheets 數據表格設置，並進行數據清理
+---
 
-- 資料處理與初步應用（2025年2月 - 2025年3月）
-  - 開發與測試自動化測評系統
-  - 第一次發送測評報告至參與者並收集回應
-  - 收集受試者建議與回饋
 
-- 優化與分析（2025年4月 - 2025年6月）
-   - 改進自動化測評系統，增強系統穩定性與準確性
-   - 數據分析與建模，進行數據清理與機器學習模型訓練
+## 🔐 Note on Data Privacy
+> Due to participant privacy, full datasets and source code are not publicly available.  
+> 🖼 Please see [`display.pdf`](display.pdf) for a visual overview of the full system architecture.
 
-- 結果展示（2025年6月 - 2025年8月）
-   - 整理最終研究結果，進行可視化呈現
 
-⚠ **由於涉及隱私，本專案未公開完整數據與程式碼，但可以提供部分分析方法與結果摘要。[請參閱](Display.pdf)** 
+ 
