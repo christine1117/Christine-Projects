@@ -59,7 +59,7 @@ The study focuses on participants with childhood experiences in institutional ca
 
 ## 🔐 Note on Data Privacy
 > Due to participant privacy, full datasets and source code are not publicly available.  
-> 🖼 Please see [`display.pdf`](display.pdf) for a visual overview of the full system architecture.
+> 🖼 Please see [`Display.pdf`](Display.pdf) for a visual overview of the full system architecture.
 
 
  
