@@ -18,11 +18,11 @@ Here, I showcase a collection of my projects related to AI, Data Science, and Ps
 
 ### 💗 Mental Health Assessment Automation System
 
-- **Summary**：擔任「從機構養育到成人心智理解：探索兒童期依附經驗對心智化能力長期影響的跨序列研究」的研究助理，同時結合人工智慧和數據來預測和分析心理學數據，並開發心理健康測評自動化系統，大幅減少人工分析的時間，提高效率。
+- **Summary**：Developed an automated mental health assessment system and applied machine learning to predict psychological outcomes using data from a longitudinal attachment study.
 - **Tech Stack**：Python、Pandas、Seaborn、Smtplib、Scikit-learn
-- **Key Contributions**：掌握了如何串接Google sheet API讀取和處理心理學數據，並應用機器學習算法進行分類與預測。
+- **Key Contributions**：Automated data processing via Google Sheets API and built ML models to analyze mental health patterns.
 
-[More](AI-Psychology/Mental Health Assessment Automation System)
+[More](AI-Psychology/Mental%20Health%20Assessment%20Automation%20System)
 
 ---
 
