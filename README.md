@@ -27,11 +27,13 @@ I divide my projects into three categories:
 
 ## Data-Science-Projects
 
-### 🪐 SpaceX 數據分析
+### 🪐 SpaceX Launch Data Analysis
 
-- **簡介**：基於 SpaceX 的歷史發射數據，使用數據分析和視覺化工具來洞察發射成功率、發射時間等多個關鍵指標。
-- **技術與工具**：Python、Pandas、Matplotlib、
-- **學習收穫**：強化了我對數據處理與視覺化技術的掌握，並了解如何從大量數據中提取有價值的資訊。
+- **Summary**：Analyzed historical SpaceX launch data to uncover patterns, following a full data science pipeline—from data collection to machine learning—to predict whether the Falcon 9 first stage will land successfully.
+- **Tech Stack**：Python、Pandas、Matplotlib、SQL、Folium、Scikit-learn
+- **Key Contributions**：Cleaned and analyzed SpaceX launch data to uncover factors affecting mission success.
+
+
 
 [More](#)
 
