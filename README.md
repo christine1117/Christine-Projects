@@ -41,7 +41,7 @@ I divide my projects into three categories:
 
 ## Group Projects
 
-### Coffee selector
+### ☕Coffee selector
 
 - **Summary**：A group project built for *Introduction to Programming*, where users receive coffee recommendations based on selected preferences like brew time, sweetness, and milk. Each result includes a full recipe with steps and visual ratios.
 - **Tech Stack**：Python、Tkinter、Pillow、Pandas、Pygame
