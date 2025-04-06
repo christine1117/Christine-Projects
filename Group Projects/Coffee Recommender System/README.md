@@ -1,13 +1,17 @@
 # ☕ 零壹咖啡師 - Coffee Recommender System
-## 🧾 Project Overview
-零壹咖啡師 is a coffee recommender system built with Tkinter in Python.
-The app offers a fullscreen, image-driven interface that helps users choose the perfect coffee based on their personal preferences, including:
-- Production time 
-- Sweetness
-- Caffeine level
-- Milk / Foam / Whipped cream
+**零壹咖啡師** is a full-screen interactive coffee recommendation system, built with **Python**, **Tkinter**, and **Pillow**.  
+It allows users to customize their coffee based on personal taste and preferences, then browse beautiful visual recipe cards — just like a virtual barista.
 
+### 🧾 Users can filter by:
+- Brew time (製作時間)
+- Sweetness level (甜度)
+- Caffeine level (咖啡因濃度)
+- Milk / Foam / Whipped cream (牛奶 / 奶泡 / 鮮奶油)
 
+All recipes are matched from a custom dataset and presented with full-screen visual cards designed for intuitive navigation.
+
+## 🎬 Demo
+[![Watch the demo](https://img.youtube.com/vi/08I_F10XkKg/maxresdefault.jpg)](https://youtu.be/08I_F10XkKg?si=7BYNIbqrBmiiPnoJ)
 
 ---
 
