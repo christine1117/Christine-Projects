@@ -48,3 +48,7 @@ This project follows a complete data science lifecycle, from data collection to 
 
 ---
 📽️ A visual summary of this project is also available as a [View Slide Deck](#) (link here once uploaded).
+> This presentation was designed as a **comprehensive, stakeholder-ready report** —  
+> covering the full data science lifecycle, key insights, and model results in a clear, digestible format.  
+> It's suitable for both technical and non-technical audiences who want to understand  
+> the value and decision-making potential behind the predictive model.
