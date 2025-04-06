@@ -11,6 +11,8 @@ It allows users to customize their coffee based on personal taste and preference
 All recipes are matched from a custom dataset and presented with full-screen visual cards designed for intuitive navigation.
 
 ## 🎬 Demo
+Click and watch the demo! 
+
 [![Watch the demo](https://img.youtube.com/vi/08I_F10XkKg/maxresdefault.jpg)](https://youtu.be/08I_F10XkKg?si=7BYNIbqrBmiiPnoJ)
 
 ---
