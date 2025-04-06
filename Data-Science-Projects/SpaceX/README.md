@@ -1,16 +1,37 @@
-# IBM Data Science Capstone Project - SpaceX
+# IBM Data Science Capstone Project - Falcon 9 First Stage Landing Prediction
 
-## Introduction
+## 🚀 Introduction
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
-The goal of this project is to predict the landing outcome of the Falcon 9 first stage. 
+## 📌 Project Goal
+To build a machine learning model that predicts whether the Falcon 9 first stage will land successfully, based on launch-related features such as payload mass, orbit type, launch site, and booster version. 
 
-## Methodology
-The methodology follows a complete data science lifecycle:
-- [Data collection with API](Data-Science-Projects/SpaceX/01_Data_Collection_Api.ipynb)
-- [Data collection with Webscarping](Data-Science-Projects/SpaceX/02_Webscraping.ipynb)
-- [Data wrangling](Data-Science-Projects/SpaceX/03_Data_Wrangling.ipynb)
-- [SQL-based Exploratory data analysis (EDA) ](Data-Science-Projects/SpaceX/04_SpaceX_EDA_SQL.ipynb)
-- [Visualization of Exploratory Data Analysis (EDA)](Data-Science-Projects/SpaceX/05_EDA_With_Data_Visualization.ipynb)
-- [Data Visualization](Data-Science-Projects/SpaceX/06_SpaceX_Interactive_Visual_Analytics_Folium.ipynb)
-- [Model Evaluation](Data-Science-Projects/SpaceX/07_Machine_Learning_Prediction.ipynb)
+## 🔍 Methodology  
+This project follows a complete data science lifecycle, from data collection to model evaluation:
+
+### 🟣 Data Collection  
+- [01_Data_Collection_API.ipynb](Data-Science-Projects/SpaceX/01_Data_Collection_Api.ipynb)  
+  Used SpaceX's API to collect structured launch data  
+- [02_Webscraping.ipynb](Data-Science-Projects/SpaceX/02_Webscraping.ipynb)  
+  Scraped additional launch information from Wikipedia
+
+### 🟠 Data Wrangling  
+- [03_Data_Wrangling.ipynb](Data-Science-Projects/SpaceX/03_Data_Wrangling.ipynb)  
+  Standardized formats, calculated counts per site/orbit, and prepared data for EDA
+
+### 🔵 Exploratory Data Analysis (EDA)  
+- [04_SpaceX_EDA_SQL.ipynb](Data-Science-Projects/SpaceX/04_SpaceX_EDA_SQL.ipynb)  
+  SQL-based queries to summarize patterns  
+- [05_EDA_With_Data_Visualization.ipynb](Data-Science-Projects/SpaceX/05_EDA_With_Data_Visualization.ipynb)  
+  Visual analysis of payload mass, launch success, and orbit types
+
+### 🟢 Geospatial Visualization  
+- [06_SpaceX_Interactive_Visual_Analytics_Folium.ipynb](Data-Science-Projects/SpaceX/06_SpaceX_Interactive_Visual_Analytics_Folium.ipynb)  
+  Built an interactive map of launch sites and payloads using Folium
+
+### 🔴 Modeling & Evaluation  
+- [07_Machine_Learning_Prediction.ipynb](Data-Science-Projects/SpaceX/07_Machine_Learning_Prediction.ipynb)  
+  Trained 4 classification models and evaluated using F1 Score and Accuracy
+
+
+## 📊 Key Insights
