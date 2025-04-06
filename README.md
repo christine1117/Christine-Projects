@@ -1,7 +1,7 @@
 ### Hi, I'm Christine 👋  
 I'm a psychology major at National Chengchi University (NCCU), with a strong interest in data science, AI, and human-centered technology.  
 I focus on applying data-driven methods to real-world human behavior — from mental health assessment to behavioral pattern analysis.  
-In Fall 2025, I’ll be joining UC Berkeley as an exchange student to further develop my interdisciplinary work at the intersection of psychology, data, and design.
+In Fall 2025, I’ll be joining UC Berkeley as an exchange student to further develop my interdisciplinary work at the intersection of psychology and data.
 
 This repository showcases a collection of projects where I explore how data science and AI can support meaningful insights in psychology, and beyond.
 
