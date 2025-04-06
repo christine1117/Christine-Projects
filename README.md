@@ -41,7 +41,7 @@ Summarizes key insights by extracting the top 3 most informative reviews using f
 Collaborative projects built in class or with friends.
 
 ### 1. Coffee Recommender System
-Recommends coffee types based on user preferences like brew time, sweetness, and milk with full recipes and visuals.  [More](https://github.com/christine1117/Christine-Projects/tree/f112f7f94e1c602ea6541793d828589084de7e31/Group%20Projects/Coffee%20Recommender%20System))
+Recommends coffee types based on user preferences like brew time, sweetness, and milk with full recipes and visuals.  [More](https://github.com/christine1117/Christine-Projects/tree/f112f7f94e1c602ea6541793d828589084de7e31/Group%20Projects/Coffee%20Recommender%20System)
 
 ---
 
