@@ -30,7 +30,7 @@ End-to-end data science projects involving analysis, modeling, and visualization
 Predicts Falcon 9 landings based on launch data, using a full ML pipeline. [More](Data-Science-Projects/SpaceX)
 
 ###  2. IMDb Movie Review Generator
-Scrapes IMDb reviews, performs sentiment analysis, and uses an LLM to generate new reviews.  
+Scrapes IMDb reviews, and performs sentiment analysis.
 Summarizes key insights by extracting the top 3 most informative reviews using frequency-based scoring. [More](#)
 
 ---
