@@ -7,59 +7,54 @@ Here, I showcase a collection of my projects related to AI, Data Science, and Ps
 ## Overview
 I divide my projects into four categories:
 
-- [AI + Psychology](#ai--psychology)
-- [Data Science Projects](#data-science-projects)
-- [Group Projects](#group-projects)
-- [Tiny but Fun](#tiny-but-fun)
+- [AI + Psychology](#-ai--psychology)
+- [Data Science Projects](#-data-science-projects)
+- [Group Projects](#-group-projects)
+- [Tiny but Fun](#-tiny-but-fun)
 
 
 
 
-## AI + Psychology
+## 💗 AI + Psychology
 Projects combining psychology with data and AI tools.
 
-### 💗 Mental Health Assessment Automation System
+###  Mental Health Assessment Automation System
+Developed an automated mental health assessment system and applied machine learning to predict psychological outcomes using data from a longitudinal attachment study.
 
-- **Summary**：Developed an automated mental health assessment system and applied machine learning to predict psychological outcomes using data from a longitudinal attachment study.
-- **Tech Stack**：Python、Pandas、Seaborn、Smtplib、Scikit-learn
-- **Key Contributions**：Automated data processing via Google Sheets API and built ML models to analyze mental health patterns.
 
 [More](AI-Psychology/Mental%20Health%20Assessment%20Automation%20System)
 
 ---
 
-## Data Science Projects
+## 📊 Data Science Projects
+End-to-end data science projects involving analysis, modeling, and visualization.
 
-### 🪐 SpaceX Launch Data Analysis
-
-- **Summary**：Analyzed historical SpaceX launch data to uncover patterns, following a full data science pipeline—from data collection to machine learning—to predict whether the Falcon 9 first stage will land successfully.
-- **Tech Stack**：Python、Pandas、Matplotlib、SQL、Folium、Scikit-learn
-- **Key Contributions**：Cleaned and analyzed SpaceX launch data to uncover factors affecting mission success.
-
-
+###  SpaceX Launch Data Analysis
+Predicts Falcon 9 landings based on launch data, using a full ML pipeline.
 
 [More](Data-Science-Projects/SpaceX)
 
 ---
 
-## Group Projects
+## 🤝 Group Projects
+Collaborative projects built in class or with friends.
 
-### ☕Coffee selector
-
-- **Summary**：A group project built for *Introduction to Programming*, where users receive coffee recommendations based on selected preferences like brew time, sweetness, and milk. Each result includes a full recipe with steps and visual ratios.
-- **Tech Stack**：Python、Tkinter、Pillow、Pandas、Pygame
-- **Key Contributions**：Built the interactive interface and filtering logic for coffee suggestions.
+### Coffee Selector
+Recommends coffee types based on user preferences like brew time, sweetness, and milk with full recipes and visuals.  
 
 [More](#)
 
-## Tiny but Fun 
+---
+
+## 🎈 Tiny but Fun 
 A collection of class projects and self-practice builds — simple, creative, and hands-on.
+
 - [Quote Guessing Game](Tiny%20but%20Fun/Quote_Guessing_Game.ipynb)
 - [Anti-Awkward Bot](Tiny%20but%20Fun/Anti-Awkward%20Bot.ipynb)
 - [Web Scraper for Trending News](Tiny%20but%20Fun/Web_Scraper_for_Trending_News.ipynb)
 
 ---
 
-## Contact
+## 📬 Contact
 - Profolio: [@Christine-Notion](https://tidal-oval-da2.notion.site/Hi-I-m-Chiao-Chieh-Deng-1c323cab8111808e8afffbc7d5552a83)
 - Email: christine921117@gmail.com
