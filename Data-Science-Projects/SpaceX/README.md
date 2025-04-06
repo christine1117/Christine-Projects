@@ -1,4 +1,9 @@
 # IBM Data Science Capstone Project - Falcon 9 First Stage Landing Prediction
+📽️ A visual summary of this project is also available as a [Slide Deck](00_Falcon9_Landing_Prediction_SlideDeck.pdf).
+> This presentation was designed as a **comprehensive, stakeholder-ready report** —  
+> covering the full data science lifecycle, key insights, and model results in a clear, digestible format.  
+> It's suitable for both technical and non-technical audiences who want to understand  
+> the value and decision-making potential behind the predictive model.
 
 ## 🚀 Introduction
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
@@ -47,8 +52,4 @@ This project follows a complete data science lifecycle, from data collection to 
 - From **2010–2017**, most missions did not attempt booster recovery; the **first successful ground landing** happened in **2015**.
 
 ---
-📽️ A visual summary of this project is also available as a [Slide Deck](00_Falcon9_Landing_Prediction_SlideDeck.pdf).
-> This presentation was designed as a **comprehensive, stakeholder-ready report** —  
-> covering the full data science lifecycle, key insights, and model results in a clear, digestible format.  
-> It's suitable for both technical and non-technical audiences who want to understand  
-> the value and decision-making potential behind the predictive model.
+
