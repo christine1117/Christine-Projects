@@ -10,27 +10,27 @@ To build a machine learning model that predicts whether the Falcon 9 first stage
 This project follows a complete data science lifecycle, from data collection to model evaluation:
 
 ### 🟣 Data Collection  
-- [01_Data_Collection_API.ipynb](Data-Science-Projects/SpaceX/01_Data_Collection_Api.ipynb)  
+- [01_Data_Collection_API.ipynb](01_Data_Collection_Api.ipynb)  
   Used SpaceX's API to collect structured launch data  
-- [02_Webscraping.ipynb](Data-Science-Projects/SpaceX/02_Webscraping.ipynb)  
+- [02_Webscraping.ipynb](02_Webscraping.ipynb)  
   Scraped additional launch information from Wikipedia
 
 ### 🟠 Data Wrangling  
-- [03_Data_Wrangling.ipynb](Data-Science-Projects/SpaceX/03_Data_Wrangling.ipynb)  
+- [03_Data_Wrangling.ipynb](03_Data_Wrangling.ipynb)  
   Standardized formats, calculated counts per site/orbit, and prepared data for EDA
 
 ### 🔵 Exploratory Data Analysis (EDA)  
-- [04_SpaceX_EDA_SQL.ipynb](Data-Science-Projects/SpaceX/04_SpaceX_EDA_SQL.ipynb)  
+- [04_SpaceX_EDA_SQL.ipynb](04_SpaceX_EDA_SQL.ipynb)  
   SQL-based queries to summarize patterns  
-- [05_EDA_With_Data_Visualization.ipynb](Data-Science-Projects/SpaceX/05_EDA_With_Data_Visualization.ipynb)  
+- [05_EDA_With_Data_Visualization.ipynb](05_EDA_With_Data_Visualization.ipynb)  
   Visual analysis of payload mass, launch success, and orbit types
 
 ### 🟢 Geospatial Visualization  
-- [06_SpaceX_Interactive_Visual_Analytics_Folium.ipynb](Data-Science-Projects/SpaceX/06_SpaceX_Interactive_Visual_Analytics_Folium.ipynb)  
+- [06_SpaceX_Interactive_Visual_Analytics_Folium.ipynb](06_SpaceX_Interactive_Visual_Analytics_Folium.ipynb)  
   Built an interactive map of launch sites and payloads using Folium
 
 ### 🔴 Modeling & Evaluation  
-- [07_Machine_Learning_Prediction.ipynb](Data-Science-Projects/SpaceX/07_Machine_Learning_Prediction.ipynb)  
+- [07_Machine_Learning_Prediction.ipynb](07_Machine_Learning_Prediction.ipynb)  
   Trained 4 classification models and evaluated using F1 Score and Accuracy
 
 
