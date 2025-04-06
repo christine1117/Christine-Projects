@@ -1,8 +1,10 @@
-### Hi, I'm Chiristine 👋
+### Hi, I'm Christine 👋  
 I'm a psychology major at National Chengchi University (NCCU), with a strong interest in data science, AI, and human-centered technology.  
-My works focus on how data science and AI can be applied to real-world human behavior — from mental health assessments to behavioral pattern analysis. In Fall 2025, I’ll be joining UC Berkeley as an exchange student to continue expanding my interdisciplinary work in data.
+I focus on applying data-driven methods to real-world human behavior — from mental health assessment to behavioral pattern analysis.  
+In Fall 2025, I’ll be joining UC Berkeley as an exchange student to further develop my interdisciplinary work at the intersection of psychology, data, and design.
 
-Here, I showcase a collection of my projects related to AI, Data Science, and Psychology. My goal is to bridge the gap between human behavior and artificial intelligence to bring meaningful insights into psychology through data.
+This repository showcases a collection of projects where I explore how data science and AI can support meaningful insights in psychology, and beyond.
+
 
 ## Overview
 I divide my projects into four categories:
