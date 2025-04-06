@@ -16,6 +16,7 @@ I divide my projects into four categories:
 
 
 ## AI + Psychology
+Projects combining psychology with data and AI tools.
 
 ### 💗 Mental Health Assessment Automation System
 
@@ -60,7 +61,5 @@ A collection of class projects and self-practice builds — simple, creative, an
 ---
 
 ## Contact
-
-- GitHub: [@Christine-Github](https://github.com/Christine)
 - Profolio: [@Christine-Notion](https://tidal-oval-da2.notion.site/Hi-I-m-Chiao-Chieh-Deng-1c323cab8111808e8afffbc7d5552a83)
 - Email: christine921117@gmail.com
