@@ -3,10 +3,10 @@
 It allows users to customize their coffee based on personal taste and preferences, then browse beautiful visual recipe cards — just like a virtual barista.
 
 ### 🧾 Users can filter by:
-- Brew time (製作時間)
-- Sweetness level (甜度)
-- Caffeine level (咖啡因濃度)
-- Milk / Foam / Whipped cream (牛奶 / 奶泡 / 鮮奶油)
+- Brew time 
+- Sweetness level 
+- Caffeine level 
+- Milk / Foam / Whipped cream 
 
 All recipes are matched from a custom dataset and presented with full-screen visual cards designed for intuitive navigation.
 
