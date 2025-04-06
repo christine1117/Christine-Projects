@@ -40,7 +40,7 @@ Summarizes key insights by extracting the top 3 most informative reviews using f
 ## 🤝 Group Projects
 Collaborative projects built in class or with friends.
 
-### 1. Coffee Selector
+### 1. Coffee Recommender System
 Recommends coffee types based on user preferences like brew time, sweetness, and milk with full recipes and visuals.  [More](#)
 
 ---
