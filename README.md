@@ -18,7 +18,7 @@ I divide my projects into four categories:
 ## 💗 AI + Psychology
 Projects combining psychology with data and AI tools.
 
-###  Mental Health Assessment Automation System
+###  1. Mental Health Assessment Automation System
 Developed an automated mental health assessment system and applied machine learning to predict psychological outcomes using data from a longitudinal attachment study. [More](AI-Psychology/Mental%20Health%20Assessment%20Automation%20System)
 
 ---
@@ -38,7 +38,7 @@ Summarizes key insights by extracting the top 3 most informative reviews using f
 ## 🤝 Group Projects
 Collaborative projects built in class or with friends.
 
-### Coffee Selector
+### 1. Coffee Selector
 Recommends coffee types based on user preferences like brew time, sweetness, and milk with full recipes and visuals.  [More](#)
 
 ---
