@@ -26,8 +26,8 @@ Developed an automated mental health assessment system and applied machine learn
 ## 📊 Data Science Projects
 End-to-end data science projects involving analysis, modeling, and visualization.
 
-###  1. SpaceX Launch Data Analysis
-Predicts Falcon 9 landings based on launch data, using a full ML pipeline. [More](Data-Science-Projects/SpaceX)
+###  1. Falcon9 Landing Prediction 
+IBM Data Science Capstone project predicting Falcon 9 landings — supported by EDA, modeling, and a stakeholder-facing slide deck. [More](Data-Science-Projects/SpaceX)
 
 ###  2. IMDb Movie Review Generator
 Scrapes IMDb reviews, and performs sentiment analysis.
