@@ -47,7 +47,7 @@ This project follows a complete data science lifecycle, from data collection to 
 - From **2010–2017**, most missions did not attempt booster recovery; the **first successful ground landing** happened in **2015**.
 
 ---
-📽️ A visual summary of this project is also available as a [View Slide Deck](#) (link here once uploaded).
+📽️ A visual summary of this project is also available as a [View Slide Deck](00_Falcon9_Landing_Prediction_SlideDeck.pdfd).
 > This presentation was designed as a **comprehensive, stakeholder-ready report** —  
 > covering the full data science lifecycle, key insights, and model results in a clear, digestible format.  
 > It's suitable for both technical and non-technical audiences who want to understand  
