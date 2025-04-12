@@ -4,55 +4,83 @@
 This project supports a long-term psychological study titled:
 > *"From Institutional Rearing to Adult Mentalization: A Cross-Sequential Study on the Long-Term Effects of Childhood Attachment Experiences on Mentalization Ability"*
 
-As a research assistant under Prof. Pei-Yu Wu (Dept. of Education, National Chengchi University), I co-developed an automated system to streamline psychological health assessments and apply machine learning to uncover patterns between childhood institutional experiences and adult mental well-being.
+As a research assistant under Prof. Pei-Yu Wu (Department of Education, National Chengchi University), I independently designed and developed a full-stack system to automate psychological health assessments for children raised in institutional care.
+
+Built using **real-world mental health data** collected from ongoing research, the system delivers personalized reports to participants and enables psychologists to track group trends and high-risk indicators through an interactive dashboard.
 
 ---
 
 ## 🎯 Objectives
-- **Explore** how early-life environments influence adult mental health
-- **Reduce** manual workload in processing psychological assessments
-- **Apply** AI tools for scalable, reproducible research insights
+- **Uncover** how early-life environments influence adult mental health
+- **Automate** psychological assessment processes to reduce manual workload and human error
+- **Empower** psychologists and researchers with interactive dashboards and data visualizations
+- **Translate** psychological insights into scalable, reproducible, and human-centered tools
 
 ---
 
 ## 🔍 Background
-Traditional psychological assessments often rely on manual data entry, cleaning, and scoring, which slows down analysis and limits research scale. To address this, I built an end-to-end automation system that:
+Traditional psychological assessments often rely on manual data entry, cleaning, and scoring, which slows down analysis and limits research scale.
+To address this, I built an end-to-end automation system that:
 - Sends surveys via email
 - Collects responses via Google Forms/Sheets
 - Cleans and processes data
 - Applies machine learning models to identify predictive patterns
 - Automatically generates preliminary analytical summaries
+- Provides psychologists with an interactive dashboard to monitor risk and trends
 
-The study focuses on participants with childhood experiences in institutional care facilities.
+## 🖥️ Features
+| Role              | Key Functionality                                                                 |
+|-------------------|-----------------------------------------------------------------------------------|
+| 🧒 Participants    | Receive personalized monthly feedback reports via email                          |
+| 🧠 Psychologists   | Use a secure dashboard to track monthly trends and identify high-risk individuals |
+| 📊 Researchers     | Analyze longitudinal data with machine learning and interactive visualizations    |
 
 ---
+## ⚙️ System Architecture
 
+```
+[Google Form] ➝ [Google Sheets API] ➝ [Data Processing (Python)] ➝ [Flask Dashboard]
+                                                             ⬑
+                                                    [Auto Email Generator]
+```
+
+---
 ## 🛠 Tech Stack
-- **Python** – main development language
-- **Pandas** – data cleaning and preprocessing
-- **Scikit-learn** – ML model building (logistic regression, random forest)
-- **Google Sheets API** – real-time data syncing
-- **SMTP** – for batch email survey distribution
+- **Python** – core development
+- **Pandas** – data preprocessing & scoring
+- **Flask** – web app & dashboard backend
+- **Jinja2** – HTML template automation
+- **Chart.js** – data visualization (trends, risk indicators)
+- **Google Sheets API** – real-time data sync
+- **SMTP** – email delivery (report distribution)
+- **Scikit-learn** – logistic regression & random forest analysis
 
 ---
 
 
 
 ## ⚙️ How It Works
-1. **Survey Distribution**
-   - Google Form links are sent via Python SMTP to a batch of participants
+1. **Survey Distribution**  
+   Participants receive survey links via automated email (Python SMTP)
 
-2. **Data Collection**
-   - Responses are synced live to Google Sheets
+2. **Data Collection**  
+   Google Form responses are synced to Google Sheets in real time
 
-3. **Data Cleaning & Scoring**
-   - Python scripts parse, normalize, and score psychological assessments (e.g., RFQ-C, RFQ-U)
+3. **Data Cleaning & Scoring**  
+   Scores are computed for psychological measures (e.g., RFQ-C, RFQ-U, emotional distress index)
 
-4. **Modeling & Analysis**
-   - Logistic Regression & Random Forest models used to explore relationships between background variables and mentalization scores
+4. **Automated Report Generation**  
+   Each participant receives a personalized feedback summary (via email)
 
-5. **Result Summarization**
-   - Outputs can be visualized in VS or exported as formatted summaries for the research team
+5. **Dashboard for Psychologists**  
+   A web interface (Flask + Chart.js) displays:
+   - Monthly participation stats  
+   - RFQ-C / RFQ-U averages  
+   - High-risk count  
+   - Visualized trends across time  
+
+6. **Machine Learning Analysis **  
+  
 
 ---
 
