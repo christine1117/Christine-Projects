@@ -31,9 +31,6 @@ End-to-end data science projects involving analysis, modeling, and visualization
 ###  1. Falcon9 Landing Prediction 
 IBM Data Science Capstone project predicting Falcon 9 landings — supported by EDA, modeling, and a stakeholder-facing slide deck. [More](Data-Science-Projects/SpaceX)
 
-###  2. IMDb Movie Review Generator
-Scrapes IMDb reviews, and performs sentiment analysis.
-Summarizes key insights by extracting the top 3 most informative reviews using frequency-based scoring. [More](#)
 
 ---
 
