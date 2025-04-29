@@ -31,6 +31,8 @@ End-to-end data science projects involving analysis, modeling, and visualization
 ###  1. Falcon9 Landing Prediction 
 IBM Data Science Capstone project predicting Falcon 9 landings — supported by EDA, modeling, and a stakeholder-facing slide deck. [More](Data-Science-Projects/SpaceX)
 
+### 2. Machine Learning Coursework (2025 Spring)
+Coursework completed during "Machine Learning : Concepts and Applications" course. Focus on applying Python to real-world datasets, covering topics such as customer segmentation (RFM and clustering), association rule mining, and classification modeling (Decision Tree).
 
 ---
 
