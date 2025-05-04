@@ -50,6 +50,9 @@ A collection of class projects and self-practice builds — simple, creative, an
 - [Quote Guessing Game](Tiny%20but%20Fun/Quote_Guessing_Game.ipynb)
 - [Anti-Awkward Bot](Tiny%20but%20Fun/Anti-Awkward%20Bot.ipynb)
 - [Web Scraper for Trending News](Tiny%20but%20Fun/Web_Scraper_for_Trending_News.ipynb)
+- [寶藏巖國際藝術村_RAG_系統](寶藏巖國際藝術村_RAG_系統.ipynb)
+- [最懂你的選衣小助理 👑Two_Stage_CoT](最懂你的選衣小助理%20👑Two_Stage_CoT.ipynb)
+- [打造自己的圖像生成Web App](打造自己的圖像生成Web%20App.ipynb)
 
 ---
 
